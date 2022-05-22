@@ -5,9 +5,15 @@ function Timeline()
     return(
         <div className="timeline">
                 <div>
-                <h1> Hello twiter</h1>
+                <h5 className = "timeline-home"> Home</h5>
                 
                 </div>
+
+                <div>
+                <h5 > What's Happening</h5>
+                
+                </div>
+        
         
         
         </div>

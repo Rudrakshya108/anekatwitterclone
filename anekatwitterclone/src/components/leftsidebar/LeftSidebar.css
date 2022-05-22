@@ -1,0 +1,77 @@
+.leftsidebar{
+    margin-top:40px;
+    margin-left :80px;
+
+
+
+}
+h4:hover{
+    /* background-color: #e7e1e1;
+    border-radius: 50px; */
+    /* text-align: center;
+    display: block;
+    padding: 10px 60px 10px 60px;
+    min-width: fit-content; */ 
+    /* opacity:0px; */
+
+/* box-shadow: 1px 1px 0 rgba
+(156,     137, 137, 0.3); */
+
+} 
+
+.button{
+    color:#ffffff;
+    background-color : rgb(0, 183, 255);
+    border-radius: 100px/90px;
+    padding: 10px 80px 10px 80px;
+
+}
+
+
+.twitter{
+    margin-top: 20px;
+    width: 25px;
+    height: 20px;
+    margin-left: 25px;
+}
+
+.public{
+    display: flex;
+    margin: 20px;
+    flex:0.4;
+    
+    
+}
+
+.public :hover{
+    /* padding: 20px; */
+    background-color: yellow;
+    border-radius:10px;
+
+    
+}
+
+.public_notification:hover{
+    /* padding: 2px; */
+    background-color: aqua;
+    border-radius: 10%;
+
+}
+
+.public h4:hover{
+margin-left: 30px;
+margin-right: 30px;
+}
+
+.username{
+    margin: 20px;
+}
+
+.username img{
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+}
+
+
+

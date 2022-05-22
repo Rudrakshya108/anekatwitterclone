@@ -1,0 +1,17 @@
+.rightsidebar{
+    margin-right :80px;
+    margin-top :40px;
+    min-width: fit-content;
+    /* -webkit-text-stroke-color: aqua;
+    background-color: blue; */
+}
+
+h5{
+    color: solid rgb(221, 25, 25);
+
+}
+.search-container {
+    scroll-snap-type: mandatory;
+     box-shadow: grey;
+     /* scrollbar-darkshadow-color: aqua; */
+}

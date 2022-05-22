@@ -1,0 +1,12 @@
+.timeline{
+    margin-top:40px;
+    text-align:center;
+    text-align: 60%;
+}
+
+timeline:hover{
+    border-color:solid transparent;
+}
+.timeline-home{
+    text-align: left;
+}

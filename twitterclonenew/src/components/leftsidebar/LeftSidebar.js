@@ -2,7 +2,7 @@ import React from "react";
 import "./LeftSidebar.css";
 import logo2 from './logo.png';
 import HomeIcon from '@material-ui/icons/Home';
-import TagRoundedIcon from '@material-ui/icons';
+//import TagRoundedIcon from '@material-ui/icons';
 import NotificationsNoneRoundedIcon from '@material-ui/icons/NotificationsNoneRounded';
 import MailOutlineRoundedIcon from '@material-ui/icons/MailOutlineRounded';
 import BookmarkBorderRoundedIcon from '@material-ui/icons/BookmarkBorderRounded';
@@ -33,7 +33,7 @@ function LeftSidebar()
        
 
         <div className="public">
-        <h4><div> <TagRoundedIcon/></div> Explore</h4>
+        <h4># Explore</h4>
         <br/>
         </div>
    
